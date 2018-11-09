@@ -1,0 +1,22 @@
+body
+{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.centered
+{
+    text-align: center;
+}
+.title
+{
+    font-size: 2em;
+}
+.subtitle
+{
+    font-size: 1.5em;
+}
+.subtitle a
+{
+    color: #29B6F6;
+    text-decoration: none;
+}

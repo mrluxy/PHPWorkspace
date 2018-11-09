@@ -1,0 +1,87 @@
+.erreur
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.erreur p
+{
+    padding-left: 15px;
+    font-size: 1.2em; 
+}
+.PHP
+{
+    color: black;
+    background-color: #ffcdd2;
+    border-left: 6px solid;
+    border-color: #f44336;
+}
+
+.message
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+    color: white;
+    background-color: #37474F;
+    border-left: 6px solid;
+    border-color: #90A4AE;
+}
+
+.message p
+{
+    padding-left: 15px;
+    font-size: 1.2em; 
+}
+
+.message .button
+{
+    background-color: #546E7A;
+    border: 0;
+    /*background: none;*/
+    box-shadow: none;
+    border-radius: 0px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.message .button:hover
+{
+    background-color: #78909C;
+}
+
+.message a
+{
+    color:white;
+    margin-left: 15px;
+    padding-left:10px;
+    padding-right: 10px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #455A64;
+}
+.message a:hover
+{
+    background-color: #607D8B;
+}
+
+/*Les différents types de messages*/
+/*Pour l'instant, la couleur de base me plaît bien*/
+/*.confirmation
+{
+    background-color:#f44336;
+    border-color: #ef9a9a;
+}
+.confirmation a
+{
+    background-color: #e57373;
+}
+.confirmation a:hover
+{
+    background-color: #ef9a9a;
+}*/
